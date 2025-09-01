@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "WA Contacts Extractor - Muat Turun dan Simpan Kontak WhatsApp"
+  },
+  "extensionDescription": {
+    "message": "Ekstrak dan eksport semua kontak WhatsApp dari kumpulan, sembang, dan label. Pilih dari format CSV, Excel, JSON, atau VCard."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "WA Contacts Extractor - WhatsApp 연락처 다운로드 및 저장"
+  },
+  "extensionDescription": {
+    "message": "그룹, 채팅 및 레이블에서 모든 WhatsApp 연락처를 추출하고 내보냅니다. CSV, Excel, JSON 또는 VCard 형식 중에서 선택하세요."
+  }
+}

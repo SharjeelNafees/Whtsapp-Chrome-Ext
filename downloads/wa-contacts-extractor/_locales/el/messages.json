@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "WA Contacts Extractor - Λήψη και Αποθήκευση Επαφών WhatsApp"
+  },
+  "extensionDescription": {
+    "message": "Εξαγάγετε και εξαγάγετε όλες τις επαφές WhatsApp από ομάδες, συνομιλίες και ετικέτες. Επιλέξτε μεταξύ μορφών CSV, Excel, JSON ή VCard."
+  }
+}

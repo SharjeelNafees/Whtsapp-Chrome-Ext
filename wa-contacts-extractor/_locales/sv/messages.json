@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "WA Contacts Extractor - WhatsApp Kontakt Nedladdning & Spara"
+  },
+  "extensionDescription": {
+    "message": "Extrahera och exportera alla WhatsApp-kontakter från grupper, chattar och etiketter. Välj mellan CSV-, Excel-, JSON- eller VCard-format."
+  }
+}

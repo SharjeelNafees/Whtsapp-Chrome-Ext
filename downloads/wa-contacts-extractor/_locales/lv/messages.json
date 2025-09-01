@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "WA Contacts Extractor - WhatsApp kontaktu lejupielāde un saglabāšana"
+  },
+  "extensionDescription": {
+    "message": "Izmantojiet WhatsApp kontaktus no grupām, čatiem un etiķetēm. Izvēlieties no CSV, Excel, JSON vai VCard formātiem."
+  }
+}

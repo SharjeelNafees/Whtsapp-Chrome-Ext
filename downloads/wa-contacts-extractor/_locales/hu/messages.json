@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "WA Contacts Extractor - WhatsApp Kapcsolatok Letöltése és Mentése"
+  },
+  "extensionDescription": {
+    "message": "Minden WhatsApp kapcsolatot kinyerhet és exportálhat csoportokból, csevegésekből és címkékből. Válasszon CSV, Excel, JSON vagy VCard formátumot."
+  }
+}

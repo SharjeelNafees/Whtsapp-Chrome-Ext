@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "WA Contacts Extractor - WhatsApp Kontakt Download & Gem"
+  },
+  "extensionDescription": {
+    "message": "Eksportér og hent alle WhatsApp-kontakter fra grupper, chats og labels. Vælg mellem CSV, Excel, JSON eller VCard formater."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "WA Contacts Extractor - Stahování a uložení kontaktů WhatsApp"
+  },
+  "extensionDescription": {
+    "message": "Extrahujte a exportujte všechny kontakty WhatsApp ze skupin, chatů a štítků. Vyberte formáty CSV, Excel, JSON nebo VCard."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "WhatsApp Group Contact Extractor"
+  },
+  "extensionDescription": {
+    "message": "Extract and export all WhatsApp contacts from groups, chats and labels. Choose from CSV, Excel, JSON, or VCard formats."
+  }
+}

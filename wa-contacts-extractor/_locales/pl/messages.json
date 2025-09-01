@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "WA Contacts Extractor - Pobieranie i zapisywanie kontaktów WhatsApp"
+  },
+  "extensionDescription": {
+    "message": "Wydobądź i eksportuj wszystkie kontakty WhatsApp z grup, czatów i etykiet. Wybierz format CSV, Excel, JSON lub VCard."
+  }
+}

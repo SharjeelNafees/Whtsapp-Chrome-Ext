@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "WA Contacts Extractor - WhatsApp Yhteystietojen Lataus ja Tallennus"
+  },
+  "extensionDescription": {
+    "message": "Hae ja vie kaikki WhatsApp-yhteystiedot ryhmistä, chat-viesteistä ja tunnisteista. Valitse CSV-, Excel-, JSON- tai VCard-muodot."
+  }
+}

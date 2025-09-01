@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "WA Contacts Extractor - WhatsApp കോൺടാക്റ്റ് ഡൗൺലോഡ് & സെവർ"
+  },
+  "extensionDescription": {
+    "message": "ഗ്രൂപ്പുകൾ, ചാറ്റുകൾ, ലേബലുകൾ എന്നിവയിൽ നിന്നുള്ള എല്ലാ WhatsApp കോൺടാക്റ്റുകൾ എക്സ്\u200Cട്രാക്റ്റ് ചെയ്ത് എക്സ്പോർട്ട് ചെയ്യുക. CSV, Excel, JSON അല്ലെങ്കിൽ VCard ഫോർമാറ്റുകളിൽ തിരഞ്ഞെടുക്കുക."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "WA Contacts Extractor - Prenos in shranjevanje WhatsApp stikov"
+  },
+  "extensionDescription": {
+    "message": "Izvlecite in izvozite vse WhatsApp stike iz skupin, klepetov in oznak. Izberite med formati CSV, Excel, JSON ali VCard."
+  }
+}

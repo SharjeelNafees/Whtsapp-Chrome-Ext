@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "WA Contacts Extractor - WhatsApp 聯絡人下載與儲存"
+  },
+  "extensionDescription": {
+    "message": "從群組、聊天和標籤中提取並導出所有 WhatsApp 聯絡人。選擇 CSV、Excel、JSON 或 VCard 格式。"
+  }
+}

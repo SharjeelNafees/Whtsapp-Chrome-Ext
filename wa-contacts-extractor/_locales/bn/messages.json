@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "WA Contacts Extractor - WhatsApp কন্টাক্ট ডাউনলোড ও সেভার"
+  },
+  "extensionDescription": {
+    "message": "গ্রুপ, চ্যাট এবং লেবেল থেকে সব WhatsApp কন্টাক্ট এক্সট্র্যাক্ট এবং এক্সপোর্ট করুন। CSV, Excel, JSON অথবা VCard ফরম্যাটে নির্বাচন করুন।"
+  }
+}

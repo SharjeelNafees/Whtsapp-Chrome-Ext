@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "WA Contacts Extractor - WhatsApp連絡先のダウンロードと保存"
+  },
+  "extensionDescription": {
+    "message": "グループ、チャット、ラベルからすべてのWhatsApp連絡先を抽出してエクスポートします。CSV、Excel、JSON、またはVCard形式から選択できます。"
+  }
+}

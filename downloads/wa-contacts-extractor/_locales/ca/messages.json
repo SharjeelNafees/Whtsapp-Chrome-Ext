@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "WA Contacts Extractor - Descarrega i Desa Contactes de WhatsApp"
+  },
+  "extensionDescription": {
+    "message": "Extreu i exporta tots els contactes de WhatsApp de grups, xats i etiquetes. Trieu entre formats CSV, Excel, JSON o VCard."
+  }
+}
